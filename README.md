@@ -1,3 +1,3 @@
 2026-04-11
 
-Refactored database connection module to improve performance and fixed bug #12 where incorrect data was being retrieved. Updated README and CHANGELOG with latest changes. Added documentation for new features in db_api.py.
+refactored database query logic to improve performance and fixed a minor bug in user authentication. updated README.md with new contributors and project roadmap. updated documentation to reflect changes in API endpoints.
