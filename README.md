@@ -1,6 +1,3 @@
-2026-04-06 - Updated README.md to reflect recent changes
+2026-04-11
 
-- Refactored authentication logic to improve security
-- Fixed bug causing incorrect data retrieval in the dashboard
-- Updated documentation to include new features and APIs
-- Optimized database queries to improve application performance
+Refactored database connection module to improve performance and fixed bug #12 where incorrect data was being retrieved. Updated README and CHANGELOG with latest changes. Added documentation for new features in db_api.py.
